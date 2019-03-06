@@ -1,0 +1,6 @@
+eval function should be avoided
+
+variables declared outside a function cannot be
+accessed inside a function unless declared as
+"global"
+
